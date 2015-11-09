@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="448"
+   viewBox="0 0 448 448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="status-help.svg">
+  <title
+     id="title3344">status-help</title>
+  <defs
+     id="defs4">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-8" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-2" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994952"
+     inkscape:cx="375.44217"
+     inkscape:cy="250.58688"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1368"
+     inkscape:window-height="981"
+     inkscape:window-x="260"
+     inkscape:window-y="260"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>status-help</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-604.36209)">
+    <path
+       style="fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 224,604.36209 a 224,223.99999 0 0 0 -224,224 224,223.99999 0 0 0 224,224.00001 224,223.99999 0 0 0 224,-224.00001 224,223.99999 0 0 0 -224,-224 z m -2.50024,56 c 14.19371,0 27.39519,1.51124 39.60486,4.53394 12.20961,2.87875 22.81667,7.48471 31.82128,13.81799 9.15724,6.33328 16.25405,14.46573 21.29053,24.39746 5.18909,9.78779 7.78357,21.59126 7.78357,35.4093 0,8.78023 -1.06852,16.76819 -3.2052,23.96509 -2.13668,7.05297 -5.26499,13.74643 -9.38574,20.07971 -4.12077,6.33328 -9.23417,12.45047 -15.33899,18.35193 -6.10482,5.75753 -13.12525,11.73107 -21.06153,17.92041 -5.34169,4.17419 -10.07235,8.06023 -14.19311,11.65869 -3.96817,3.59846 -7.32644,7.19723 -10.07361,10.79566 -2.59455,3.45452 -4.57796,7.19691 -5.95154,11.22717 -1.37358,3.88633 -2.06103,8.34864 -2.06103,13.38647 0,3.45453 0.45829,6.98103 1.37402,10.57947 1.06834,3.59846 2.44153,6.62092 4.12036,9.06787 l -60.20837,0 c -1.5262,-3.7424 -2.74748,-7.91656 -3.66321,-12.52258 -0.76309,-4.74996 -1.14417,-9.21227 -1.14417,-13.38648 0,-6.62113 0.68661,-12.66608 2.06019,-18.13574 1.37359,-5.46963 3.43337,-10.57963 6.18054,-15.32959 2.74717,-4.89389 6.18184,-9.49984 10.30261,-13.81799 4.12076,-4.46209 8.92777,-8.85214 14.42212,-13.17029 5.79957,-4.60601 10.8366,-8.85244 15.10998,-12.73877 4.426,-4.03026 8.16452,-7.98854 11.21692,-11.87488 3.05241,-4.03027 5.3422,-8.13218 6.86841,-12.30639 1.52621,-4.31815 2.28918,-9.0686 2.28918,-14.25037 0,-4.46208 -0.83935,-8.56403 -2.51818,-12.3064 -1.67883,-3.88633 -4.12054,-7.19694 -7.32557,-9.93176 -3.0524,-2.73482 -6.86815,-4.89372 -11.44677,-6.47705 -4.42601,-1.58332 -9.38579,-2.37549 -14.88013,-2.37548 -11.90442,0 -24.26741,2.37565 -37.08752,7.1256 C 163.57952,728.6611 151.44654,735.71326 140,745.21316 l 0,-64.98755 c 11.75177,-6.62115 24.57222,-11.58748 38.46069,-14.89807 13.88848,-3.31056 28.23487,-4.96545 43.03907,-4.96545 z m 2.50024,252 a 42.000003,41.999973 0 0 1 42,42 42.000003,41.999973 0 0 1 -42,42 42.000003,41.999973 0 0 1 -42,-42 42.000003,41.999973 0 0 1 42,-42 z"
+       id="path3358"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3422"
+       y="659.92053"
+       x="262.64514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8125px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan3424"
+         y="0"
+         x="0"
+         sodipodi:role="line"><tspan
+           id="tspan3426"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8125px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000"
+           dy="0"
+           dx="0" /></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3453"
+       y="723.92053"
+       x="422.64514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan3455"
+         y="0"
+         x="0"
+         sodipodi:role="line"><tspan
+           id="tspan3457"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#000000"
+           dy="0"
+           dx="0" /></tspan></text>
+  </g>
+</svg>

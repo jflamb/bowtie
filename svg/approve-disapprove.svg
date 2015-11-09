@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="448"
+   viewBox="0 0 448 448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="approve-disapprove.svg">
+  <title
+     id="title3372">disapprove</title>
+  <defs
+     id="defs4">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="301.15597"
+     inkscape:cy="278.20832"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="448"
+     fit-margin-right="384"
+     fit-margin-left="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3347"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2"
+       originx="0"
+       originy="-1.7498462e-005" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>disapprove</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-604.36224)">
+    <g
+       id="g3374"
+       transform="matrix(1,0,0,-1,0,1656.7245)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3369"
+         d="m 128.0117,828.90636 c -0.74631,-41.51564 34.33895,-66.91799 67.84688,-87.12978 43.50681,-24.73552 90.27271,-54.07156 107.25794,-103.20637 6.3415,-16.76389 15.54118,-39.45727 36.51846,-33.11971 20.97989,8.03806 25.79431,35.16152 22.03876,53.01006 -3.48599,24.60676 -19.65099,44.12917 -33.47389,63.89521 -11.2073,20.12083 -14.2753,52.76222 -21.12229,74.62832 50.72153,0.27585 79.53833,-0.98578 130.2297,0 16.27871,15.96113 16.27871,47.8834 -16.27872,63.84453 16.27872,15.96114 16.27872,47.8834 -16.2787,63.84454 16.2787,15.96113 16.2787,47.88339 -16.27872,63.84453 16.27872,15.96121 16.27872,47.88351 -16.27871,63.84461 l -65.11485,0 c -51.07756,0 -178.63305,-5.5481 -179.06586,-31.9223 4.2e-4,-57.99694 -10e-4,-133.53752 0,-191.53364 z"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.91569519px;line-height:125%;font-family:'Segoe UI Symbol';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3363"
+         d="m 96.771822,1052.361 -96.771902000001,0 0,-255.99874 96.771902000001,0 0,255.99874 z"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:16.91569519px;line-height:125%;font-family:'Segoe UI Symbol';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.8125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="text3345"
+       transform="matrix(20.773546,0,0,20.773546,-6647.5348,-18265.543)" />
+  </g>
+</svg>

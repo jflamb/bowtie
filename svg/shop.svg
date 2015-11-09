@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384"
+   height="448"
+   viewBox="0 0 384 448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shop.svg">
+  <title
+     id="title3394">shop</title>
+  <defs
+     id="defs4">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="306.4126"
+     inkscape:cy="209.60505"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1269"
+     inkscape:window-height="1158"
+     inkscape:window-x="26"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>shop</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-604.36209)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3345"
+       y="827.24103"
+       x="197.54042"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.8125px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan3347"
+         y="0"
+         x="0"
+         sodipodi:role="line"><tspan
+           id="tspan3349"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.8125px;font-family:Calibri;fill:#000000"
+           dy="0"
+           dx="0" /></tspan></text>
+    <path
+       style="fill-opacity:1;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 224 0 C 170.816 0 128 42.816 128 96 L 128 160 L 160 160 L 160 96 C 160 60.544 188.544 32 224 32 C 259.456 32 288 60.544 288 96 L 288 160 L 320 160 L 320 96 C 320 42.816 277.184 0 224 0 z M 128 32 C 74.816 32 32 74.816 32 128 L 32 160 L 64 160 L 64 128 C 64 96.54773 86.468168 70.551939 116.29102 65.078125 C 119.69118 53.135788 125.02019 42.022487 131.91406 32.085938 C 130.6153 32.034322 129.31187 32 128 32 z M 194.18555 58.34375 C 185.4174 65.285347 179.14854 75.227142 176.91016 86.654297 C 186.32584 97.793105 192 112.20614 192 128 L 192 160 L 224 160 L 224 128 C 224 100.52114 212.56981 75.81157 194.18555 58.34375 z M 0 192 L 0 211.39258 L 0 320 L 0 428.40625 C 0 431.07195 0.52648185 433.60471 1.578125 436.00391 C 2.7800033 438.40311 4.3574955 440.46837 6.3105469 442.20117 C 8.4138336 444.06717 10.740931 445.46729 13.294922 446.40039 C 15.999147 447.46659 18.854679 448 21.859375 448 L 329.91602 448 C 336.07564 448 341.25827 446.06647 345.46484 442.20117 C 349.82165 438.46907 352 433.87105 352 428.40625 L 352 320 L 352 211.39258 L 352 192 L 329.91602 192 L 21.859375 192 L 0 192 z "
+       transform="translate(0,604.36209)"
+       id="rect3352" />
+  </g>
+</svg>

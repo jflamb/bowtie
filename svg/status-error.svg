@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="448"
+   viewBox="0 0 448 448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="status-error.svg">
+  <title
+     id="title3336">status-error</title>
+  <defs
+     id="defs4">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="514.65896"
+     inkscape:cy="214.76894"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1450"
+     inkscape:window-height="916"
+     inkscape:window-x="276"
+     inkscape:window-y="1035"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>status-error</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-604.36209)">
+    <path
+       style="fill-opacity:1;stroke:none"
+       d="m 224,604.36209 a 224,223.99999 0 0 0 -224,224 224,223.99999 0 0 0 224,224.00001 224,223.99999 0 0 0 224,-224.00001 224,223.99999 0 0 0 -224,-224 z m -42,56 84,0 0,13.78467 -20.8385,210.21533 -42.323,0 L 182,674.14676 l 0,-13.78467 z m 41.69153,252 c 5.88756,0 11.36504,1.11113 16.43103,3.33337 5.20297,2.22221 9.72109,5.25959 13.55481,9.11145 3.83372,3.85184 6.84556,8.36962 9.03625,13.55481 2.19074,5.03703 3.28638,10.51877 3.28638,16.4447 0,5.92591 -1.09564,11.40765 -3.28638,16.44471 -2.19069,5.03702 -5.20253,9.40762 -9.03625,13.11133 -3.83372,3.70369 -8.35184,6.59219 -13.55481,8.66626 -5.06599,2.22224 -10.54347,3.33337 -16.43103,3.33337 -5.75058,0 -11.15822,-1.03713 -16.22424,-3.11121 -5.06599,-2.07411 -9.51597,-4.96255 -13.34973,-8.66625 -3.69684,-3.7037 -6.64049,-8.07432 -8.83118,-13.11133 C 183.09564,966.43628 182,960.8805 182,954.80642 c 0,-5.92593 1.09564,-11.40767 3.28638,-16.4447 2.19069,-5.18519 5.13434,-9.70297 8.83118,-13.55481 3.83376,-3.85186 8.28374,-6.88924 13.34973,-9.11145 5.06602,-2.22224 10.47366,-3.33337 16.22424,-3.33337 z"
+       id="path3358"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

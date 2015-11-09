@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="repo-tfvc.svg">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Mercurial</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1863"
+     inkscape:window-height="1269"
+     id="namedview31"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="1"
+     inkscape:cx="46.404624"
+     inkscape:cy="157.27535"
+     inkscape:window-x="52"
+     inkscape:window-y="52"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showguides="false"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4188"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2" />
+    <sodipodi:guide
+       position="-90,246"
+       orientation="0,1"
+       id="guide5357" />
+  </sodipodi:namedview>
+  <title
+     id="title4">Mercurial</title>
+  <defs
+     id="defs6">
+    <g
+       id="hg">
+      <path
+         d="M 85.685,67.399 C 100.47,42.815 82.562,2.944 49.818,6.995 20.233,10.652 19.757,41.792 45.83,49.189 c 22.563,6.408 4.661,20.72 5.184,30.25 0.526,9.529 19.616,12.986 34.671,-12.04"
+         id="path9"
+         inkscape:connector-curvature="0" />
+      <circle
+         cx="31.579"
+         cy="70.616997"
+         r="12.838"
+         id="circle11" />
+      <circle
+         cx="16.913"
+         cy="43.476002"
+         r="8.3999996"
+         id="circle13" />
+    </g>
+  </defs>
+  <rect
+     style="fill-opacity:1"
+     id="rect3340"
+     width="352"
+     height="64"
+     x="96"
+     y="0" />
+  <path
+     style="fill-opacity:1"
+     d="M 96 96 L 96 129.27734 A 112 112 0 0 1 168.75 171.80273 A 80 80 0 0 1 192.25391 144 L 192 144 L 192 96 L 96 96 z M 352 96 L 352 144 L 287.86328 144 A 80 80 0 0 1 320 208 A 80 80 0 0 1 240 288 A 80 80 0 0 1 188.08594 268.83594 A 112 112 0 0 1 178.23438 293.78516 A 80 80 0 0 1 208 288 A 80 80 0 0 1 286.37891 352 L 448 352 L 448 96 L 352 96 z M 133.87305 338.05273 A 112 112 0 0 1 108.82227 348.17383 A 80 80 0 0 1 111.76953 352 L 129.70508 352 A 80 80 0 0 1 133.87305 338.05273 z "
+     id="rect3342" />
+  <path
+     style="fill-opacity:1"
+     d="M 80 160 A 80 80 0 0 0 0 240 A 80 80 0 0 0 52.740234 315.10742 L 45.341797 352.0957 A 48 48 0 0 0 0 400 A 48 48 0 0 0 48 448 A 48 48 0 0 0 96 400 A 48 48 0 0 0 68.871094 356.8418 L 76.277344 319.8125 A 80 80 0 0 0 80 320 A 80 80 0 0 0 127.37891 304.34766 L 166.69141 343.66016 A 48 48 0 0 0 160 368 A 48 48 0 0 0 208 416 A 48 48 0 0 0 256 368 A 48 48 0 0 0 208 320 A 48 48 0 0 0 183.66211 326.69336 L 144.34766 287.37891 A 80 80 0 0 0 160 240 A 80 80 0 0 0 159.86719 236.26562 L 196.82031 228.875 A 48 48 0 0 0 240 256 A 48 48 0 0 0 288 208 A 48 48 0 0 0 240 160 A 48 48 0 0 0 192.13281 205.33594 L 155.13477 212.73438 A 80 80 0 0 0 80 160 z M 80 192 A 48 48 0 0 1 128 240 A 48 48 0 0 1 80 288 A 48 48 0 0 1 32 240 A 48 48 0 0 1 80 192 z "
+     id="path4189" />
+</svg>

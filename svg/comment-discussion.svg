@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="448"
+   viewBox="0 0 448 448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="comment-discussion.svg">
+  <title
+     id="title3349">comment-discussion</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="471.20115"
+     inkscape:cy="198.13527"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1264"
+     inkscape:window-height="842"
+     inkscape:window-x="201"
+     inkscape:window-y="440"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>comment-discussion</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-604.36209)">
+    <path
+       style="fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M 32 0 C 14.271983 0 0 14.271983 0 32 L 0 192 L 0 224 L 0 320 L 64 256 L 320 256 C 337.72802 256 352 241.72802 352 224 L 352 32 C 352 14.271983 337.72802 0 320 0 L 32 0 z "
+       transform="translate(0,604.36209)"
+       id="rect3335" />
+    <path
+       style="fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M 384 128 L 384 240 C 384 266.59202 362.59202 288 336 288 L 96 288 L 96 352 C 96 369.72802 110.27198 384 128 384 L 384 384 L 448 448 L 448 352 L 448 320 L 448 160 C 448 142.27198 433.72802 128 416 128 L 384 128 z "
+       transform="translate(0,604.36209)"
+       id="rect3337" />
+  </g>
+</svg>

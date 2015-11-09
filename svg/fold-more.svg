@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fold-more.svg">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>fold-more</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1085"
+     inkscape:window-height="752"
+     id="namedview31"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="1"
+     inkscape:cx="235.3055"
+     inkscape:cy="209.72427"
+     inkscape:window-x="533"
+     inkscape:window-y="1017"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4188"
+       spacingx="16"
+       spacingy="16"
+       empspacing="2" />
+    <sodipodi:guide
+       position="-90,246"
+       orientation="0,1"
+       id="guide5357" />
+  </sodipodi:namedview>
+  <title
+     id="title4">fold-more</title>
+  <defs
+     id="defs6">
+    <g
+       id="hg">
+      <path
+         d="M 85.685,67.399 C 100.47,42.815 82.562,2.944 49.818,6.995 20.233,10.652 19.757,41.792 45.83,49.189 c 22.563,6.408 4.661,20.72 5.184,30.25 0.526,9.529 19.616,12.986 34.671,-12.04"
+         id="path9"
+         inkscape:connector-curvature="0" />
+      <circle
+         cx="31.579"
+         cy="70.616997"
+         r="12.838"
+         id="circle11" />
+      <circle
+         cx="16.913"
+         cy="43.476002"
+         r="8.3999996"
+         id="circle13" />
+    </g>
+  </defs>
+  <path
+     id="path6164"
+     style="stroke:none"
+     d="M 0,287.62588 127.29241,416 254.5848,287.62588 215.61775,248.3276 127.29241,337.40372 38.967063,248.3276 Z M 256,160.37412 128.70761,32 1.4152048,160.37412 40.382268,199.6724 128.70761,110.59628 217.03295,199.6724 Z" />
+</svg>
